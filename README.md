@@ -1,6 +1,6 @@
 - Hi, I’m @harshverma2156
 - I’m interested in collaborative coding.
-- I’m currently Working at "OOHAS INFOTECH PVT.LTD." as an PHP Developer.
+- I’m currently Working at "OOHAS INFOTECH PVT LTD." as an PHP Developer.
 - I’m looking to collaborate on Android Projects. 
 - How to reach me harshvermadev@gmail.com
 - Languages: Java, Kotlin, Python, PHP, JavaScript
