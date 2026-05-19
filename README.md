@@ -6,7 +6,7 @@
 - Frameworks & Tools: Node.js,Phalcon, CodeIgniter, Spring Framework, FastAPI, Docker
 - Databases: MySQL, PostgreSQL, Firebase
 - Android Dev: Kotlin, XML, Google Maps API, Firebase
-- Other Skills: OOP, REST APIs, Microservices
+- Other Skills: OOPs, REST APIs, Microservices
 <!---
 harshverma2156/harshverma2156 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
