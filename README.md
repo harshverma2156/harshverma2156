@@ -1,6 +1,6 @@
 - Hi, I’m @harshverma2156
 - I’m interested in collaborative coding.
-- I’m currently Working at "OOHAS INFOTECH PVT LTD." as an Full Stack Developer.
+- I’m currently Working at "OOHAS INFOTECH PVT LTD." as Full Stack Developer.
 - How to reach me harshvermadev@gmail.com
 - Languages: Java, Kotlin, Python, PHP, JavaScript
 - Frameworks & Tools: Node.js,Phalcon, CodeIgniter, Spring Framework, FastAPI, Docker
